@@ -1,2 +1,10 @@
-print("hello world!")
-print("It's python time")
+a = input("a: ")
+b = input("b: ")
+
+best = a
+a = b
+b= best
+
+
+print("a = " + a)
+print("b = " + b)
