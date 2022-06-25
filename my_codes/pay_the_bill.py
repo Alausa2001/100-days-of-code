@@ -2,6 +2,7 @@ import random
 test_seed = int(input("Enter a seed: "))
 random.seed(test_seed)
 
+
 name_input = input("Enter the names of people at the table separated by a comma: ")
 name = name_input.split(", ")
 
