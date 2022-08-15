@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 #THIS PROGRAMMME CALCULATE THE NO OF DAYS, WEEKS AND MONTH LEFT FOR THE USER IF THEY WERE TO LIVE FOR 90YEARS
 no_of_days90 = 365 * 90
+
 no_of_months90 = 12 * 90
 no_of_weeks90 = 52 * 90
 age_of_user = input(" Enter your age in years\n")
