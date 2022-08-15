@@ -3,6 +3,7 @@ import random
 import rock_paper_scissors
 
 choice = [rock_paper_scissors.rock, rock_paper_scissors.paper, rock_paper_scissors.scissors]
+
 player_choice = int(input("Enter 0 for rock, 1 for paper or 2 for scissors: "))
 
 random.seed()
