@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import random
 import rock_paper_scissors
 

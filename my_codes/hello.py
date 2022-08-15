@@ -1,7 +1,8 @@
+#!/usr/bin/python3
 a = input("a: ")
 b = input("b: ")
 best = a
 a = b
-b= best
+b = best
 print("a = " + a)
 print("b = " + b)
